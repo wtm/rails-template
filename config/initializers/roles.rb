@@ -1,0 +1,4 @@
+VALID_ROLES = %w{
+  GUEST
+  ADMINISTRATOR
+}
